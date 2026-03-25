@@ -15,7 +15,6 @@ This project simulates a motorsport-style race start light sequence using an Ard
 
 ## Setup:<br/>
 ![diagram](/assets/breadboard_diagram.png)<br/>
-![setup](/assets/setup.png)<br/>
 
 ## Demo:<br/>
 ![demo](/assets/demo.gif)
